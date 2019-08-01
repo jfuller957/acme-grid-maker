@@ -12,4 +12,4 @@ The Grid
 
 */
 
-
+const rowsInput = document.querySelector('input[name="rows"]');
